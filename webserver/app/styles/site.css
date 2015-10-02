@@ -1,0 +1,7 @@
+/* All site custom CSS should go here */
+.srch-area
+{
+  padding: 40px 20px;
+  background-color: #eee;
+  color: rgb(51, 51, 51);
+}
