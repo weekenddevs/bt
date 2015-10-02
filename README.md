@@ -8,5 +8,6 @@ To start the web server do the following
 2. Install bower by running npm install -g bower
 3. clone the repository
 4. open command prompt and go to server directory and execute following commands
-5. npm install (this will install dependency, this might take some time)
+5. npm install (this will install node dependencies, this might take some time)
+6. bower install(this will install bower dependency)
 5. grunt serve (this will start http server) 
